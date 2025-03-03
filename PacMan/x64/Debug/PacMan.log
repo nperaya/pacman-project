@@ -1,0 +1,377 @@
+﻿  Animate.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+  Gameloop.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,62): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,62): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,62): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,62): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,40): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,40): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,40): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(197,40): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,56): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,56): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,56): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,56): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,56): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,34): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,34): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,34): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(216,34): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,51): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,51): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,51): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,51): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,29): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,29): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,29): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(217,29): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Gameloop.cpp(234,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Ghosts.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(36,41): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(36,41): warning C4305:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(36,41): warning C4305:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(36,41): warning C4305:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(36,41): warning C4305:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(38,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(38,44): warning C4305:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(38,44): warning C4305:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(38,44): warning C4305:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(38,44): warning C4305:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(40,41): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(40,41): warning C4305:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(40,41): warning C4305:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(40,41): warning C4305:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(40,41): warning C4305:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(42,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(42,44): warning C4305:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(42,44): warning C4305:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(42,44): warning C4305:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(42,44): warning C4305:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(53,31): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,65): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,65): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,65): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,65): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,55): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,55): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,55): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,55): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,45): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,45): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,45): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,45): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,35): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,35): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,35): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(67,35): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(70,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,81): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,81): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,81): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,81): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,81): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,59): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,59): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,59): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,59): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,37): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,37): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,37): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,37): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,24): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,24): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,24): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(96,24): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(256,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Ghosts.cpp(284,18): warning C4305: '*=': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+  Pacman.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,27): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,27): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,27): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,27): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,20): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,20): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,20): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,20): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(8,20): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,21): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,21): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,21): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(24,21): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,21): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,21): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,21): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(27,21): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,35): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,35): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,35): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,35): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(30,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,35): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,35): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,35): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,35): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(33,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(46,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(46,22): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(46,22): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(46,22): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(46,22): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(50,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(50,22): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(50,22): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(50,22): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.cpp(50,22): warning C4244:         ]
+  Player.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(51,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(51,52): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(51,52): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(51,52): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(51,52): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(54,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(54,52): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(54,52): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(54,52): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(54,52): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(57,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(57,52): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(57,52): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(57,52): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(57,52): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(60,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(60,52): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(60,52): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(60,52): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(60,52): warning C4244:         ]
+  Render.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(60,69): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(60,62): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(84,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(84,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(89,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(89,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(134,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(139,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         ]
+  Sound.cpp
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Sound.cpp(54,33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Sound.cpp(54,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
+C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Player.cpp(22,1): warning C4715: 'GetCorrection': not all control paths return a value
+  PacMan.vcxproj -> C:\Users\PC\Desktop\compro2025\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\x64\Debug\PacMan.exe
