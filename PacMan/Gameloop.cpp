@@ -50,7 +50,7 @@ void SaveHighScore()
 	outfile << gState.high_score;
 	outfile.close();
 }
-void InitBoard()
+void InitBoard() //โหลดเเมพ เก็บลงในตัวแปร gState.board
 {
 	std::string line;
 	std::ifstream infile("Map.txt");
@@ -64,7 +64,7 @@ void InitBoard()
 	infile.close();
 
 }
-void Init()
+void Init() //ตั้งค่าเริ่มต้นของเกม
 {
 	Player* pl = new Player();
 	pl->cur_dir = UP;
@@ -168,7 +168,7 @@ void ResetBoard()
 		gState.ghosts[i]->dot_counter = 0;
 }
 
-void IncrementGhostHouse()
+void IncrementGhostHouse() //เพิ่มค่าตัวนับของผีเพื่อกำหนดจังหวะออกจากบ้าน
 {
 	Ghost* first_ghost = nullptr;
 	// using global counter, increment it
@@ -215,7 +215,7 @@ void CheckPelletCollision()
 	if (collided) {
 		RemovePellet(gState.player->pos.x, gState.player->pos.y);
 		SetTile(gState.player->pos.x, gState.player->pos.y, ' ');
-		IncrementGhostHouse();
+		IncrementGhostHouse(); //ปล่อยผีออกจากบ้านโดยเพิ่มตัวนับdot_counter
 		gState.pellet_eaten = true;
 		gState.pellets_left--;
 	}
@@ -231,7 +231,7 @@ void CheckGhostCollision()
 				SetGhostState(*gState.ghosts[i], GOHOME);
 				gState.recent_eaten = gState.ghosts[i];
 				gState.ghosts_eaten_in_powerup++;
-				gState.game_score += (pow(2,gState.ghosts_eaten_in_powerup) * 100);
+				gState.game_score += (pow(2,gState.ghosts_eaten_in_powerup) * 100); //2^จำนวนผีที่กิน*100
 				
 				gState.player_eat_ghost = true;
 				gState.pause_time = 500;
@@ -241,7 +241,7 @@ void CheckGhostCollision()
 
 				PlayEatGhost();
 			}
-			else if (gState.ghosts[i]->target_state != GOHOME) {
+			else if (gState.ghosts[i]->target_state != GOHOME) { //ไม่อยู่ในโหมดฟรีซและไม่อยู่ในบ้าน
 				gState.game_state = GAMELOSE;
 				gState.pause_time = 2000;
 				gState.player_lives -= 1;
